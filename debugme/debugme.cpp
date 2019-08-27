@@ -26,6 +26,7 @@ int main(){
 			finddigit = noextra / 10.0;					//double 
 			noextra = noextra / 10;						//int
 			asiival = (finddigit - noextra) * 10 + 48;	//converts digit to ascii
+
 			digit = asiival;							//converts to an integer
 			cout << "digit: " << digit << endl;
 		}
