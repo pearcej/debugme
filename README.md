@@ -1,7 +1,2 @@
-# Debugme
-
-## Author: Jan Pearce, Berea College
-
-
-## References:
-- This repo contains only original work by Jan Pearce
+# debugme
+Program designed by Dr. Jan Pearce, Berea College to learn to use a debugger. 
