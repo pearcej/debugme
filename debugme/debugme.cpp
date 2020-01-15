@@ -1,7 +1,6 @@
-/* by <username(s)> FIXME!
-This program is designed to learn more about data types and 
-facilitate the use of the IDE's debugging tools.
-Original code by Dr. Jan Pearce, Berea College */
+/* This program is designed to learn more about data types and 
+   facilitate the use of the IDE's debugging tools.
+   Original code by Dr. Jan Pearce, Berea College */
 
 #include <iostream>
 using namespace std;
