@@ -1,4 +1,5 @@
 # Debugme
+## Code designed to teach debugging
 
 ## Author: Jan Pearce, Berea College
 
